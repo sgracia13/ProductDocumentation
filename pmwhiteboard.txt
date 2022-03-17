@@ -1,0 +1,127 @@
+Miro Shortcuts
+text T
+shapes S
+pen p	
+frame f
+cut cmd + x
+group cmd + g
+ungroup cmd + shift + g
+bold/italic/underline  cmd + (b/i/u)
+line l
+
+NOTES:
+
+- Statement of Work (SOW) consists of:
+	* Scope of Services
+		The why and how of the deliverable
+	* Acceptance Criteria
+		Conditions under which feature can be 
+		accepted. Consider QA and Testing processes
+		per client. Ensure what is accepted is not 
+		left for interpretation. 
+	* Obligations, Assumptions and Dependencies
+		Section describing/explaining to the client
+		that they are of the understanding of all 
+		things outlined in SOW. Commitment or "agreeing 
+		to do this thing". Read Scope of Services
+		section side by side. Are there still things
+		that the client has agreed to reveal to us 
+		during the project that we have accepted.
+
+	* Fees and Compensation
+		1. Type of contracts: Fixed Fee or Time & Materials
+		2. Payment terms: Net10, Net30, Net60 (cadence)
+		3. Payment schedule: invoice trigger (often tied to 
+		sprints or weekly periods
+		4. Total amount: Actualized total cost
+	
+- Reviewing a draft SOW:
+	* Analyze Scope of Services and Obligations, Assumptions
+	and dependencies sections heavily
+	* Is everything actionable and deliverable with clear
+	expectations?
+	* Write feedback based on questions --> share to 
+	sales/leadership in ops channel
+
+- PM kicking off project where SOW has been signed already:
+	* Question anything with PM lead/sales
+	* Write down deliverables from scope of services
+	* Write down assumptions and dependencies as 
+	risk tracker (warning system)
+	* UNDERSTAND THE FEES SECTION --> financial tracking
+	in Harvest
+
+
+- Submit Project Invoice:
+	* Use executed of SOW for invoicing. Sometimes
+	multiple versions of SOW draft are shared before
+	it is signed.
+- Create Invoice:
+ 	* Harvest --> Invoice --> New invoice --> Client Name -->
+	Create blank invoice --> next
+	Editing --> refer to doc
+
+- Facilitate D&D Check Ins:
+	1. Book meeting (ensure with design team you are not 
+	meeting to frequently or infrequently)
+	2. Ensure client team has authority to give direction 
+	in call	
+	3. Send designs to client team ahead of meeting for 
+	review outside call time. Given.
+	4. Prep with design team ahead of meeting
+	5. Create doc for collaboration on notes and actions
+	during meeting
+		Facilitation:
+			*Introduce topics to be discussed
+			*Hand meeting over to designer to 
+			present first topic
+			*Keep convo on track
+			*Close and mention sharing notes
+		Follow up after meetings:
+			*15-30 mins with design to discuss 
+			feedback
+			*review notes
+			*send full recap to meeting group
+		
+- App Flow:
+* remain consistent with color legend or shapes 
+for easy digestion from anyone looking at it
+* there is freedom to do them however you would like
+as long as it is easily digestable and makes sense
+
+
+- App Tear Down:
+
+* Evaluate user onboarding experience --> What were the goals when 
+designing the product/tradeoffs that were made
+* Look into other functionalities --> How does it re-engage user
+(push notifications, emails etc)
+* UX paradigms it either adheres to or breaks
+* Who will use this? Why?
+* What hypotheses were at center of trying to achieve goal? 
+* How do you measure success and will it be successful at all? 
+
+TEMPLATE
+1. What is it?
+2. What we liked
+3. Questions we had
+4. Broader observations
+
+
+Questions to ask for product critique:
+
+How did this app come to your attention?
+What's your one-line summary of what this app does at this stage?
+What's the buzz or consensus of the app so far?
+What's the experience of signing up? (onboarding)
+How does this app explain itself in the first minute
+How easy was the app to use?
+How did you feel exploring app?
+Did app deliver on expectations?
+How long did you spend using app?
+How does it compare to similar apps I have used?
+
+
+
+
+
