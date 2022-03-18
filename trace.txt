@@ -1,0 +1,37 @@
+-- Trace project is experiencing an issue with production regarding orders 
+and tasks pulling information (Outbound) --
+* Well section database consumption order
+* One of the outbound orders was not presenting (blank screen) 
+* This project is already in production and has a testing and staging 
+environment where this problem is not happening
+(possible database issue)
+
+* Use feature pushes for production
+push instead of hot fixes after the fact (i.e. do not want 
+to get to point of telling customer to uninstall and 
+reinstall)
+
+* Instead of using stepper for upload asset process, move toward only 
+one form with steps in one screen with csv upload instead of manual
+
+* Project Settings screen --> include Product ID
+
+* Show warning sign before change to  (possible flow) product member type
+
+* Can we show the whole product ID (cut spacing for 3 columns) (remember 
+hover state exists)
+
+* Truncation on drop down if product description/ID goes too long --> it
+actually goes to the next line
+
+* Uploading a new product, when I come to drop product ID down where 
+is that data pulling from (would pull list straight from ITimS)
+
+* Label for product vs product ID Project Settings page and new upload form (consistency)
+
+--Assets Page-- 
+* Archived vs Active pages (Could this be potentially confusing)
+* IF we wanted to expand what an assets details page looks like 
+(sliding sheet vs summary pointed page)
+* Quick search 
+* Tagging search vs multi search functionality

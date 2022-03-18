@@ -123,5 +123,38 @@ How does it compare to similar apps I have used?
 
 
 
+-Build user-focused intuition
+
+
+Jobs to be done framework:
+* "When I <situation>, I want to <motivation>, so I can <expected outcome>."
+* "People don't simply buy products or services, they "hire" them to 
+make progress in specific circumstances. They often buy things because 
+they find themselves with a problem they would like to solve.
+* Looks at situations and motivations. Does not focus on user 
+personas. 
+
+
+**10 Usability Heuristics:
+1. Visibility of system status
+2. System should speak users' language
+3. User Control and Freedon
+4. Consistency and standards --> Platform conventions (design)
+5. Error prevention
+6. 
+
+
+Usability studies:
+- Rule of thumb = 5 participants. Above that you hit 
+diminishing returns
+
+- Use user researches as partners. Discuss trade-offs
+- Talk to users
+- Translate what you see and hear into insights
+- User research is cheap
+- Great products address real customer needs. 
+
+
+
 
 
